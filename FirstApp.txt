@@ -2,3 +2,4 @@ This is First App
 Take Input from User
 Add it to server
 Get the user details if user requested
+Update user details
